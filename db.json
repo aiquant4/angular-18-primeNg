@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "fullName": "w",
+      "email": "w@gamil.com",
+      "password": "234",
+      "id": 1
+    },
+    {
+      "fullName": "Sumit Bera",
+      "email": "berasumit611@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "fullName": "Suman",
+      "email": "bs@gamil.com",
+      "password": "S@123",
+      "id": 3
+    },
+    {
+      "fullName": "Srijit",
+      "email": "s@gmail.com",
+      "password": "S@123",
+      "id": 4
+    }
+  ]
+}

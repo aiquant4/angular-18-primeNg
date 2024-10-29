@@ -1,0 +1,109 @@
+- .angular
+  - cache
+    - 18.2.10
+      - angular-18-primeng-app
+        - .tsbuildinfo
+        - vite
+          - deps
+            - @angular_common_http.js
+            - @angular_common_http.js.map
+            - @angular_core.js
+            - @angular_core.js.map
+            - @angular_forms.js
+            - @angular_forms.js.map
+            - @angular_platform-browser.js
+            - @angular_platform-browser.js.map
+            - @angular_platform-browser_animations.js
+            - @angular_platform-browser_animations.js.map
+            - @angular_router.js
+            - @angular_router.js.map
+            - chunk-EWYTYGW3.js
+            - chunk-EWYTYGW3.js.map
+            - chunk-J3C7NXRV.js
+            - chunk-J3C7NXRV.js.map
+            - chunk-OR4AOSCE.js
+            - chunk-OR4AOSCE.js.map
+            - chunk-PQE257K7.js
+            - chunk-PQE257K7.js.map
+            - chunk-PXNQBBOE.js
+            - chunk-PXNQBBOE.js.map
+            - chunk-RG4NSR2E.js
+            - chunk-RG4NSR2E.js.map
+            - chunk-SWKKK4HA.js
+            - chunk-SWKKK4HA.js.map
+            - chunk-TEFJPZFD.js
+            - chunk-TEFJPZFD.js.map
+            - chunk-U2IYEQJR.js
+            - chunk-U2IYEQJR.js.map
+            - chunk-WVGQZYRG.js
+            - chunk-WVGQZYRG.js.map
+            - chunk-XRSBNIYN.js
+            - chunk-XRSBNIYN.js.map
+            - chunk-YKFX6DPZ.js
+            - chunk-YKFX6DPZ.js.map
+            - package.json
+            - primeng_api.js
+            - primeng_api.js.map
+            - primeng_button.js
+            - primeng_button.js.map
+            - primeng_card.js
+            - primeng_card.js.map
+            - primeng_inputtext.js
+            - primeng_inputtext.js.map
+            - primeng_password.js
+            - primeng_password.js.map
+            - primeng_toast.js
+            - primeng_toast.js.map
+            - _metadata.json
+- .editorconfig
+- .gitignore
+- angular.json
+- db.json
+- json-server-middlewares.js
+- json-server.json
+- package-lock.json
+- package.json
+- public
+  - favicon.ico
+- README.md
+- src
+  - app
+    - app.component.css
+    - app.component.html
+    - app.component.spec.ts
+    - app.component.ts
+    - app.config.ts
+    - app.routes.ts
+    - components
+      - home
+        - home.component.css
+        - home.component.html
+        - home.component.spec.ts
+        - home.component.ts
+      - login
+        - login.component.css
+        - login.component.html
+        - login.component.spec.ts
+        - login.component.ts
+      - register
+        - register.component.css
+        - register.component.html
+        - register.component.spec.ts
+        - register.component.ts
+    - guards
+      - auth.guard.spec.ts
+      - auth.guard.ts
+    - interfaces
+      - auth.ts
+    - services
+      - auth.service.spec.ts
+      - auth.service.ts
+    - shared
+      - password-mismatch.directive.ts
+  - index.html
+  - main.ts
+  - styles.css
+- tailwind.config.js
+- tsconfig.app.json
+- tsconfig.json
+- tsconfig.spec.json
